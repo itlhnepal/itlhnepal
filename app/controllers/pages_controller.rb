@@ -1,4 +1,7 @@
 class PagesController < ApplicationController
+  def comingsoon
+  end
+
   def home
   end
 

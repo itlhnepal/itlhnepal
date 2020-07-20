@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
-  root "pages#home"
+  root "pages#comingsoon"
 
   # Static Pages
-  get '/:page'=> 'pages#show'
+  get '/:page', to: 'pages#show'
 end
