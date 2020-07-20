@@ -1,0 +1,18 @@
+@media (max-width: 500px) {
+  .banner .welcome h1 {
+    font-size: 3rem;
+  }
+  .banner .welcome h2 {
+    font-size: 1.8rem;
+  }
+  .banner {
+    padding: 5rem 0;
+    height: 100vh;
+  }
+  .mb-xs-4 {
+    margin-bottom: 0.6rem;
+  }
+  .mb-block {
+    display: block;
+  }
+}
